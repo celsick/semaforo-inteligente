@@ -14,6 +14,7 @@ Observação: Todos os integrantes do grupo tiveram participações em todas as 
 **Ana, Patrick e Eduarda:** Documentação do projeto; <br>
 **Cauã e Débora:** Montagem do protótipo físico.
 
+➡️ Passagem da documentação para o Github: @celsick
 
 ## 2. Objetivos
 
@@ -37,11 +38,9 @@ Implementar um semáforo inteligente utilizando **Arduino/ESP32**, integrando se
 | ---------- | -------------------------------------- |
 | 1x         | ESP32                                  |
 | 4x         | Mini semáforos com LEDs (3 cores cada) |
-| 12x        | Resistores 220Ω                        |
 | 1x         | Sensor Ultrassônico HC-SR04            |
 | 1x         | Protoboard                             |
 | Vários     | Jumpers macho–macho / macho–fêmea      |
-| Opcional   | Fonte externa 5V                       |
 
 ---
 
@@ -99,3 +98,7 @@ Foi criada uma **dashboard** com os seguintes itens:
 - Ativado automaticamente se detectar objeto próximo **ou** via dashboard
 - Todos os LEDs verdes e vermelhos se apagam
 - Todos os LEDs amarelos piscam
+
+## 8. Vídeo demonstrativo
+
+➡️ [Clique aqui!](https://drive.google.com/drive/folders/1FFpTeUydURDezcFpfrrej9qZGtqf4Fp2?usp=sharing)

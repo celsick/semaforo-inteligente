@@ -69,8 +69,6 @@ Foi criada uma **dashboard** com os seguintes itens:
 
 - **Monitoramento de distância (cm)** em tempo real
 - **Botão interruptor** para forçar o modo noturno remotamente
-- **Histórico e gráficos de leitura**
-- **Status do dispositivo**
 
 ---
 
